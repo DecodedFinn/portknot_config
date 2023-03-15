@@ -1,13 +1,8 @@
 {
   "forceconnect": false
-  ,"foreconnect_uri": "bms.stickymc.com",
+  "foreconnect_uri": "E",
   "usernames: {
-    "f11933c7-8b34-4540-bbd1-c4cdf23451e8k"
-    "b4d3cc8e-b48d-4bd6-bc62-ac1130358cd6"
-    "b4d3cc8eb48d4bd6bc62ac1130358cd6"
-    "8b932f6e-b2df-4b94-98b0-dcae755e4ae1"
-    "483a9f6c-d89c-3cd9-9ee4-92f25a76c0c5"
-    "08092974-6792-4eb2-b25c-2e5439fc3b3e"
-    "0809297467924eb2b25c2e5439fc3b3e"
+    "b4d3cc8eb48d4bd6bc62ac1130358cd6",
+    "b4d3cc8e-b48d-4bd6-bc62-ac1130358cd6",
   },
 }
